@@ -62,7 +62,7 @@ sales-report-sample/
 ## 使い方
 
 ```bash
-pip install pandas openpyxl matplotlib
+pip install -r requirements.txt
 python aggregate.py
 ```
 
